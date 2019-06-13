@@ -10,7 +10,7 @@ var p_1 = "Take you and your partner on a high end adventure while you connect w
 
 var p_2 = "The London Eye is the perfect romantic part of your London adventure with you and your partner. Perfect view of the Eiffel Tower. Tourists also say that the view is also even better during the night and watching the stars and lights.";
 
-var p_3 = "There's no since in coming to london if you haven't come here. These stone structures has rich historical value. Here you can also get to learn the history of the ancient people who created this and see there skeletons";
+var p_3 = "Take the time to learn about ancient artifacts like the Stone Hedge. Structures that was built a long time ago and they still stand today waiting for you to explore!";
 
 var theText = [p_1, p_2, p_3];
 
