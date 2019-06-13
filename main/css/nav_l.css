@@ -89,12 +89,12 @@
     .navigation ul li:hover{
         margin: 0px 2% 0px 2%;
         padding: 4px 0px 0px 0px;
-        background-color: #fff;
+        background-color: black;
         /* color: black; */
         /* border-top-width: 11px; */
     }
 
-    .navigation ul li:hover a{
+    .navigation ul li:hover{
         color: black;
     }
 
@@ -119,6 +119,7 @@
 
     .insider li span:hover{
         background: white;
+        color: black;
         border-bottom-left-radius: 274%;
         border-top-left-radius: 274%;
         padding-left: 3%;
@@ -126,9 +127,7 @@
         padding-right: 2%;
     }
 
-    .insider li span a
-
-    .insider li span:hover a{
+    .insider li span:hover > a{
         color: black;
     }
 
